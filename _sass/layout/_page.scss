@@ -399,3 +399,14 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.archive h2,
+.archive h3 {
+  margin-top: 0.4em !important;
+  margin-bottom: 0.2em !important;
+}
+
+.archive p {
+  margin-top: 0.2em !important;
+  margin-bottom: 0.4em !important;
+}

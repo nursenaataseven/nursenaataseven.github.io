@@ -18,7 +18,7 @@
   height: auto;
 
   /* keep the footer on the bottom of the page */
-  position: fixed;
+  position: static;
   bottom: 0;
 
   -webkit-animation: intro 0.3s both;
@@ -60,7 +60,7 @@
 @media screen and (max-width: 768px) {
   /* don't pin the footer on mobile devices */
   .page__footer {
-    position: relative;
+    position: static;
     bottom: auto;
   }
 }
