@@ -8,7 +8,7 @@ author_profile: true
 
 <h2 style="text-align: center;">Preprints</h2>
 
-**Ataseven, N.**, Özdemir, Ș., Kruijne, W., Schneider, D., & Akyürek, E. G. (2026, preprint). Mentally transformed representations in memory are linked to their originals. https://doi.org/10.64898/2026.09.10.750562 
+**Ataseven, N.**, Özdemir, Ș., Akyürek, E. G., Schneider, D., & Kruijne, W. (2026, preprint). Mentally transformed representations in memory are linked to their originals. https://doi.org/10.64898/2026.09.10.750562 
 
 <br>
 
