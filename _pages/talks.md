@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-### University of Cambridge, Talk at the MRC Cognition and Brain Sciences Unit
+### University of Cambridge, Talk at the Woolgar Lab
 
-(To be presented, 2026)
+2026
 
 **Title:** Neural representations underlying mental and physical transformation
 
