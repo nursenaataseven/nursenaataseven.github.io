@@ -16,10 +16,6 @@ author_profile: true
 
 <br>
 
-Yucel, D., **Ataseven, N.**, Todorova, L., Güler, B., Fukuda, K., & Gunseli, E. (2023, preprint). Increased reliance on long-term memory when anticipating attentional guidance. PsyArXiv. [https://doi.org/10.31234/osf.io/cs9qa](https://doi.org/10.31234/osf.io/cs9qa)
-
-<br>
-
 <h2 style="text-align: center;">Published</h2>
 
 **Ataseven, N.**, Algın, E., Yücel, D., Güler, B., Todorova, L., Fukuda, K., & Günseli, E. (2026). Memory reactivation levels remain unaffected by anticipated interference. Journal of Cognitive Neuroscience, 1–12. [https://doi.org/10.1162/jocn.a.2625](https://doi.org/10.1162/jocn.a.2625)
